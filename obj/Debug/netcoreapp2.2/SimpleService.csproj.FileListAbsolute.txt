@@ -1,0 +1,14 @@
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\bin\Debug\netcoreapp2.2\SimpleService.deps.json
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\bin\Debug\netcoreapp2.2\SimpleService.runtimeconfig.json
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\bin\Debug\netcoreapp2.2\SimpleService.runtimeconfig.dev.json
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\bin\Debug\netcoreapp2.2\SimpleService.dll
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\bin\Debug\netcoreapp2.2\SimpleService.pdb
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\obj\Debug\netcoreapp2.2\SimpleService.csprojAssemblyReference.cache
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\obj\Debug\netcoreapp2.2\SimpleService.csproj.CoreCompileInputs.cache
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\obj\Debug\netcoreapp2.2\SimpleService.RazorAssemblyInfo.cache
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\obj\Debug\netcoreapp2.2\SimpleService.RazorAssemblyInfo.cs
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\obj\Debug\netcoreapp2.2\SimpleService.AssemblyInfoInputs.cache
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\obj\Debug\netcoreapp2.2\SimpleService.AssemblyInfo.cs
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\obj\Debug\netcoreapp2.2\SimpleService.RazorTargetAssemblyInfo.cache
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\obj\Debug\netcoreapp2.2\SimpleService.dll
+D:\Bruno\Projetos\GitHub\NetCoreMVCFullStack-Intermediate_2\SimpleService\obj\Debug\netcoreapp2.2\SimpleService.pdb
