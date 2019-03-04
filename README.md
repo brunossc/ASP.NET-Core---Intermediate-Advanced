@@ -3,7 +3,7 @@ Final output from MVA Cource(ASP.NET Core - Intermediate/Advanced) IDE: VSCode
 
 Dependences: Docker for desktop or server.
 
-Commands to up the app using PowerShell(fill free for change Docker port):
+Commands to up the app using PowerShell(feel free for change Docker port):
 
 docker build -t simpleservice .
 
